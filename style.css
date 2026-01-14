@@ -1,0 +1,87 @@
+
+ .searchbar{
+    margin-left: 700px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 130px;
+    border-radius: 15px;
+    border: none;
+    color: #fff;
+    background-color: rgb(178, 190, 181);
+    font-weight: ;
+    height: 10px;
+    margin-top: 8px;
+}
+
+.head{
+    margin-left: 15px;
+
+}
+
+.heading{
+    display: flex;
+    
+}
+
+.container{
+    background-color: rgb(14, 36, 8);
+    padding: 50px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.container a{
+    margin: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#container{
+    background-image: url(images/depositphotos_17140201-stock-photo-group-of-pupils.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+#container1{
+    display: flex;
+    background-color: rgb(178, 190, 181);
+    
+}
+
+#container1 img{
+    display: flex;
+    height: 200px;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.dropcap{
+    text-align: justify;
+}
+
+.dropcap::first-letter{
+    font-size: 30px;
+}
